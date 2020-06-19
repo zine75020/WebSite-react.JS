@@ -1,0 +1,19 @@
+.containerSlide {
+    width: 100%;
+    margin : auto;
+}
+.containerSlide img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.moi{
+    max-height : 450px;
+}
+.plage{
+    max-height : 450px;
+}
+
+.sagi{
+    max-height: 450px;
+}
